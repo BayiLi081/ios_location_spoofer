@@ -1,0 +1,9 @@
+[project]
+name = "ios-spoofer"
+version = "0.1.0"
+description = "Lightweight iOS location spoofer (pymobiledevice3 over USB)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pymobiledevice3>=11.54.0",
+]
